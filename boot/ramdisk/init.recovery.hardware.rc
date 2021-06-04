@@ -1,0 +1,17 @@
+on boot
+    # Always start adbd on userdebug and eng builds
+    # Please remove follow comment in debug mode.
+    # mount ext4 /dev/block/bootdevice/by-name/system /system wait ro barrier=1
+    # write /config/usb_gadget/g1/UDC a600000.dwc3
+    # start adbd
+
+on init
+
+    # pstore/ramoops previous console log
+    mount pstore pstore /sys/fs/pstore
+    chown system log /sys/fs/pstore/console-ramoops
+    chmod 0444 /sys/fs/pstore/console-ramoops
+    chown system log /sys/fs/pstore/console-ramoops-0
+    chmod 0444 /sys/fs/pstore/console-ramoops-0
+    chown system log /sys/fs/pstore/pmsg-ramoops-0
+    chmod 0444 /sys/fs/pstore/pmsg-ramoops-0

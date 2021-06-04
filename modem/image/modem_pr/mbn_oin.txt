@@ -1,0 +1,9 @@
+mcfg_sw/generic/d1s/in/cmcc/mcfg_sw.mbn
+mcfg_sw/generic/d1s/in/ct/mcfg_sw.mbn
+mcfg_sw/generic/d1s/in/cu/mcfg_sw.mbn
+mcfg_sw/generic/d1s/in/row/mcfg_sw.mbn
+mcfg_sw/generic/d1s/in/rjio/mcfg_sw.mbn
+mcfg_sw/generic/d1s/in/airtel/mcfg_sw.mbn
+mcfg_sw/generic/d1s/in/hwinfo/mcfg_sw.mbn
+mcfg_sw/generic/d1s/in/bd/mcfg_sw.mbn
+mcfg_sw/generic/d1s/in/vodafone/mcfg_sw.mbn

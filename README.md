@@ -1,0 +1,14 @@
+# sakura-user 8.1.0 OPM1.171019.019 V10.2.2.0.ODICNXM release-keys
+- manufacturer: xiaomi
+- platform: msm8953
+- codename: sakura
+- flavor: sakura-user
+- release: 8.1.0
+- id: OPM1.171019.019
+- incremental: V10.2.2.0.ODICNXM
+- tags: release-keys
+- fingerprint: xiaomi/sakura/sakura:8.1.0/OPM1.171019.019/V10.2.2.0.ODICNXM:user/release-keys
+- is_ab: false
+- brand: xiaomi
+- branch: sakura-user-8.1.0-OPM1.171019.019-V10.2.2.0.ODICNXM-release-keys
+- repo: xiaomi_sakura_dump
