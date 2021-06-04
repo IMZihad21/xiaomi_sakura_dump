@@ -1,0 +1,7 @@
+mcfg_sw/generic/d1s/global/row/mcfg_sw.mbn
+mcfg_sw/generic/d1s/global/tim/mcfg_sw.mbn
+mcfg_sw/generic/d1s/global/megafon/mcfg_sw.mbn
+mcfg_sw/generic/d1s/global/plus/mcfg_sw.mbn
+mcfg_sw/generic/d1s/global/telenor/mcfg_sw.mbn
+mcfg_sw/generic/d1s/global/cosmote/mcfg_sw.mbn
+mcfg_sw/generic/d1s/global/hwinfo/mcfg_sw.mbn

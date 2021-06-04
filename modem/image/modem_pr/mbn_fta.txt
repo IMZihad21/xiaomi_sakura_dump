@@ -1,0 +1,2 @@
+mcfg_sw/generic/d1s/cn/row/mcfg_sw.mbn
+mcfg_sw/generic/d1s/cn/hwinfo/mcfg_sw.mbn
